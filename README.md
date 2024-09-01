@@ -9,14 +9,6 @@ Also studying cybersecurity to blend coding skills with digital security.</h3>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhritii07&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-###
-
-
 <img align="right" height="150" src="https://media1.tenor.com/m/58XMqPfsnoEAAAAC/magic-computer.gif"  />
 
 ###
@@ -71,6 +63,12 @@ Also studying cybersecurity to blend coding skills with digital security.</h3>
 ###
 
 <center><img align = "center" src="https://raw.githubusercontent.com/Dhritii07/Dhritii07/output/snake.svg" alt="Snake animation" /></center>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhritii07&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
