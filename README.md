@@ -3,11 +3,6 @@
 Also studying cybersecurity to blend coding skills with digital security.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhritii07&label=Profile%20views&color=0e75b6&style=flat" alt="dhritii07" /> </p>
 
-- 🌱 I’m currently learning **Backend Development & Cybersecurity**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**
-
-
 ###
 
 <br clear="both">
@@ -30,6 +25,10 @@ Also studying cybersecurity to blend coding skills with digital security.</h3>
 
 ###
 
+- 🌱 I’m currently learning **Backend Development & Cybersecurity**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Python**
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
