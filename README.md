@@ -7,9 +7,7 @@ Also studying cybersecurity to blend coding skills with digital security.</h3>
 
 <br clear="both">
 
-
 ###
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhritii07&locale=en&hide_title=false&layout=compact&card_width=520&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -33,6 +31,11 @@ Also studying cybersecurity to blend coding skills with digital security.</h3>
     <img src="https://skillicons.dev/icons?i=anaconda,bootstrap,c,css,figma,flask,flutter,github,html,js,linux,mysql,nodejs,py,react,tailwind,vite,vscode&perline=14" />
   </a>
 </p>
+
+<p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhritii07" />
+<br>
+<p>
 
 ###
 
