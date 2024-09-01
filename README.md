@@ -9,8 +9,8 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
 
 ###
 
-Web development enthusiast with a focus on front-end design. 
-Also studying cybersecurity to blend coding skills with digital security.
+- Web development enthusiast with a focus on **front-end design**.
+  Also studying **cybersecurity** to blend coding skills with digital security.
 
 - 🌱 I’m currently learning **Backend Development & Cybersecurity**
 
