@@ -46,8 +46,8 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
 </a>
 
   </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=tokyonight">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=tokyonight" />
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=radical">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=radical" />
   </a>
 </p>
 </a>
