@@ -5,10 +5,6 @@ Also studying cybersecurity to blend coding skills with digital security.</h3>
 
 ###
 
-<br clear="both">
-
-###
-
 <img align="right" height="150" src="https://media1.tenor.com/m/58XMqPfsnoEAAAAC/magic-computer.gif"  />
 
 ###
