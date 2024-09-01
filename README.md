@@ -48,11 +48,27 @@ Also studying cybersecurity to blend coding skills with digital security.</h3>
 
 ###
 
+<p align="center">
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhritii07&show_icons=true&theme=tokyonight">
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhritii07&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=tokyonight">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhritii07&theme=dark&layout=compact">
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhritii07&theme=dark&layout=compact" /> 
+  </a>
+</p>
+</a>
+
+###
+
+<!--
 [![Dhriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhritii07&show_icons=true&theme=dark)](https://github.com/Dhritii07)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=dark)](https://github.com/Dhritii07)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=dark)](https://github.com/Dhritii07) 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&" alt="Dhritii07" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&" alt="Dhritii07" /></p> -->
 
   
 ###
