@@ -41,8 +41,10 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
 ###
 
 <p align="center">
-  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhritii07&show_icons=true&theme=tokyonight">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhritii07&show_icons=true&theme=tokyonight" />
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhritii07&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=ff79c6">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhritii07&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=ff79c6" />
+</a>
+
   </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=tokyonight">
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=tokyonight" />
