@@ -7,8 +7,6 @@ Also studying cybersecurity to blend coding skills with digital security.</h3>
 
 <br clear="both">
 
-<center><img align = "center" src="https://raw.githubusercontent.com/Dhritii07/Dhritii07/output/snake.svg" alt="Snake animation" /></center>
-
 
 ###
 
@@ -56,7 +54,7 @@ Also studying cybersecurity to blend coding skills with digital security.</h3>
   
 ###
 
-
+<center><img align = "center" src="https://raw.githubusercontent.com/Dhritii07/Dhritii07/output/snake.svg" alt="Snake animation" /></center>
 
 ###
 
