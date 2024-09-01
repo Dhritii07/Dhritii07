@@ -12,7 +12,8 @@ Also studying cybersecurity to blend coding skills with digital security.</h3>
 - 🌱 I’m currently learning **Backend Development & Cybersecurity**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python**
-  
+
+<br clear="both">  
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
