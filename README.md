@@ -70,9 +70,12 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
 
 ###
 
-<a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhritii07&theme=dracula&layout=compact">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhritii07&theme=dracula&layout=compact" /> 
-  </a>
+
+
+<a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhritii07&theme=ayu-mirage&layout=compact">
+    <img width="400" align='center' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhritii07&theme=ayu-mirage&layout=compact" /> 
+</a>
+
 
 ###
 
