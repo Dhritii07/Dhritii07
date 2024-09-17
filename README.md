@@ -55,11 +55,7 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
 -->
 
 <p>
-  <img 
-    align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=tokyonight&background=0d1117&stroke=ffffff&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&sideNums=ff79c6&currStreakLabel=ff79c6&sideLabels=ff79c6&dates=ffffff" 
-    alt="name" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhritii07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
 </p>
 
 
