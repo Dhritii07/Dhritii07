@@ -45,10 +45,22 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhritii07&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=ff79c6" />
 </a>
 
+
+
   </a>
+<!--
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=tokyonight&background=0d1117&stroke=ffffff&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&sideNums=ff79c6&currStreakLabel=ff79c6&sideLabels=ff79c6&dates=ffffff">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=tokyonight&background=0d1117&stroke=ffffff&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&sideNums=ff79c6&currStreakLabel=ff79c6&sideLabels=ff79c6&dates=ffffff" />
 </a>
+-->
+
+<p>
+  <img 
+    align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=tokyonight&background=0d1117&stroke=ffffff&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&sideNums=ff79c6&currStreakLabel=ff79c6&sideLabels=ff79c6&dates=ffffff" 
+    alt="name" 
+  />
+</p>
 
 
   </a>
