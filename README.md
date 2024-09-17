@@ -46,7 +46,7 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
 </a>
   </a>
 <a href = '#'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhritii07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhritii07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=ff79c6&locale=en&hide_border=true" width="400" alt="stats graph"  />
 </a>
 
 
