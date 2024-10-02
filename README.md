@@ -42,7 +42,7 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
 
 <p align="center">
   <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=Dhritii07&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=ff79c6">
-   <img height = '150px' src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=tokyonight&background=0d1117&stroke=ffffff&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&sideNums=ff79c6&currStreakLabel=ff79c6&sideLabels=ff79c6&dates=f8f8f2" />
+   <img height = '160px' src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&theme=tokyonight&background=0d1117&stroke=ffffff&ring=ff79c6&fire=ff79c6&currStreakNum=ff79c6&sideNums=ff79c6&currStreakLabel=ff79c6&sideLabels=ff79c6&dates=f8f8f2" />
 </a>
   </a>
 <a href = '#'>
