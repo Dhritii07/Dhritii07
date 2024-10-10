@@ -4,8 +4,8 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhritii07&label=Profile%20views&color=0e75b6&style=flat" alt="dhritii07" /> </p>
 
 ###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/58XMqPfsnoEAAAAC/magic-computer.gif"  />
+<img align = "right" height = "150" src = "https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif" />
+<!-- <img align="right" height="150" src="https://media1.tenor.com/m/58XMqPfsnoEAAAAC/magic-computer.gif"  />   -->
 
 ###
 
