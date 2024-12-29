@@ -20,7 +20,7 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?i=anaconda,bootstrap,c,css,figma,flask,github,html,js,linux,mysql,nodejs,py,react,tailwind,vite,vscode,bash,kali&perline=14" />
+ <img src="https://skillicons.dev/icons?i=anaconda,bootstrap,c,css,figma,flask,github,html,js,linux,mysql,nodejs,py,react,tailwind,vite,vscode,bash,kali,threejs&perline=14" />
   </a>
 
   
