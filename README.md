@@ -12,9 +12,9 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
 - Web development enthusiast with a focus on **front-end design**.
   Also studying **cybersecurity** to blend coding skills with digital security.
 
-- 🌱 I’m currently learning **Backend Development & Cybersecurity**
+- 🌱 I’m currently learning **Web Development & Cybersecurity**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**
+<!-- - 💬 Ask me about **Frontend Web Development** -->
 
 <br clear="both">  
 <h3 align="left">Languages and Tools:</h3>
