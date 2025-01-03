@@ -13,9 +13,7 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
   Also studying **cybersecurity** to blend coding skills with digital security.
 
 - 🌱 I’m currently learning **Web Development & Cybersecurity**
-
 <!-- - 💬 Ask me about **Frontend Web Development** -->
-
 <br clear="both">  
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
