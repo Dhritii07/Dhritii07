@@ -23,7 +23,7 @@ more about the world of code and design.
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,vite,threejs,nodejs,figma,py,flask,anaconda,pandas,mysql,linux,bash,kali,c,github,vscode&perline=14" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,vite,threejs,nodejs,figma,py,flask,anaconda,Pandas,mysql,linux,bash,kali,c,github,vscode&perline=14" />
   </a>
 
 ###
