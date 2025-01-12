@@ -9,19 +9,28 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
 
 ###
 
-- Web development enthusiast with a focus on **front-end design**.
-  Also studying **cybersecurity** to blend coding skills with digital security.
+Web development enthusiast with a focus on **front-end design**.
+Also studying **cybersecurity** to blend coding skills with digital security.
+Passionate about technology and always eager to explore and learn more about the world of code and design. 
 
-- 🌱 I’m currently learning **Web Development & Cybersecurity**
+### 
+
 <!-- - 💬 Ask me about **Frontend Web Development** -->
 <br clear="both">  
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?i=anaconda,bootstrap,c,css,figma,flask,github,html,js,linux,mysql,nodejs,py,react,tailwind,vite,vscode,bash,kali,threejs&perline=14" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,vite,threejs,nodejs,figma,py,flask,anaconda,mysql,linux,bash,kali,c,github,vscode&perline=14" />
   </a>
 
-  
+###
+<div align="left">
+    <h3 align="left">Connect with me:</h3>
+  <a href="https://linkedin.com/in/dhriti-vaidya-1876a424b" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dhriti-vaidya-1876a424b"  />
+  </a>
+</div>
+
+###
 
 </p>
 
@@ -32,12 +41,7 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
 
 ###
 
-<div align="left">
-    <h3 align="left">Connect with me:</h3>
-  <a href="https://linkedin.com/in/dhriti-vaidya-1876a424b" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dhriti-vaidya-1876a424b"  />
-  </a>
-</div>
-
+<center><img align = "center" src="https://raw.githubusercontent.com/Dhritii07/Dhritii07/output/snake.svg" alt="Snake animation" /></center>
 
 ###
 
@@ -55,8 +59,6 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
 </p>
 </a>
 
-###
-
 <!--
 [![Dhriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhritii07&show_icons=true&theme=dark)](https://github.com/Dhritii07)
 
@@ -64,19 +66,12 @@ Also studying cybersecurity to blend coding skills with digital security.</h3> -
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&" alt="Dhritii07" /></p> -->
 
-  
-###
-
-<center><img align = "center" src="https://raw.githubusercontent.com/Dhritii07/Dhritii07/output/snake.svg" alt="Snake animation" /></center>
-
-###
 
 <div align = 'center'>
 <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhritii07&theme=dracula&layout=compact&bg_color=0d1117&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6">
     <img width="400" align='center' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhritii07&theme=dracula&layout=compact&bg_color=0d1117&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6" /> 
 </a>
 </div>
-
 
 
 ###
