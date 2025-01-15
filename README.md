@@ -21,7 +21,7 @@ more about the world of code and design.
 <!-- - 💬 Ask me about **Frontend Web Development** -->
 <br clear="both">  
 <h3 align="left">💻 Languages and Tools:</h3>
-<p align="center">
+<p align="left">
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="" alt="html5">
    <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="" alt="css3">
    <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="" alt="javascript">
