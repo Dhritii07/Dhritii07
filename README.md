@@ -22,6 +22,8 @@ more about the world of code and design.
 <br clear="both">  
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="center">
+   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+      <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
   <a href="https://skillicons.dev">
  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,vite,threejs,nodejs,figma,py,flask,anaconda,mysql,linux,bash,kali,c,github,vscode&perline=14" />
   </a>
