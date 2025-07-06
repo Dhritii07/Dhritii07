@@ -89,7 +89,7 @@ more about the world of code and design.
 </a>
   </a>
 <a href = '#'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhritii07&hide_title=false&hide_rank=false&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=ff79c6&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" height = '160px alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhritii07&hide_title=false&hide_rank=false&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=ff79c6&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true" height = '160px' alt="stats graph"  />
 </a>
 
 
