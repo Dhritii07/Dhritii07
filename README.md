@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Dhriti</h2>
 <!-- <h3 align="center">Web development enthusiast with a focus on front-end design. 
 Also studying cybersecurity to blend coding skills with digital security.</h3> -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhritii07&label=Profile%20views&color=0e75b6&style=flat" alt="dhritii07" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhritii07&label=Profile%20views&color=0e75b6&style=flat" alt="dhritii07" /> </p> -->
 
 ###
 <!-- <img align = "right" height = "100px" src = "https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif" /> 
@@ -72,11 +72,6 @@ more about the world of code and design.
 
 </p>
 
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Dhritii07&theme=tokyo-night"
-  alt="GitHub activity graph"
-/>
 
 <!-- <p align="center">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhritii07" />
