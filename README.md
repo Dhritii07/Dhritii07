@@ -105,12 +105,13 @@ more about the world of code and design.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhritii07&" alt="Dhritii07" /></p> -->
 
 
-<div align = 'center'>
+<!-- <div align = 'center'>
 <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhritii07&theme=dracula&layout=compact&bg_color=0d1117&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6">
     <img width="400" align='center' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhritii07&theme=dracula&layout=compact&bg_color=0d1117&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6" /> 
 </a>
 </div>
+-->
 
-
+<p align="center"> <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhritii07&theme=dracula&layout=compact&bgcolor=0d1117&titlecolor=ff79c6&text_color=ffffff" alt="Most used programming languages" /> </p>
 ###
 
