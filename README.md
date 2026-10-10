@@ -72,11 +72,17 @@ more about the world of code and design.
 
 </p>
 
-<p align="center">
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Dhritii07&theme=tokyo-night"
+  alt="GitHub activity graph"
+/>
+
+<!-- <p align="center">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhritii07" />
 <br>
 <p>
-
+-->
 ###
 
 <center><img align = "center" src="https://raw.githubusercontent.com/Dhritii07/Dhritii07/output/snake.svg" alt="Snake animation" /></center>
@@ -113,5 +119,3 @@ more about the world of code and design.
 -->
 
 <p align="center"> <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhritii07&theme=dracula&layout=compact&bgcolor=0d1117&titlecolor=ff79c6&text_color=ffffff" alt="Most used programming languages" /> </p>
-###
-
